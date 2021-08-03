@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/GOOGLE%20DRIVE/Universidad%20Cooperativa/8%20semestre/PATRONES/Proyecto%20helados/ProyectoHelados/tiendaHelados/web/listaCategorias.jsp</file>
+            <file>file:/D:/GOOGLE%20DRIVE/Universidad%20Cooperativa/8%20semestre/PATRONES/Proyecto%20helados/ProyectoHelados/tiendaHelados/src/java/connector/ConexionObjetos.java</file>
+            <file>file:/D:/GOOGLE%20DRIVE/Universidad%20Cooperativa/8%20semestre/PATRONES/Proyecto%20helados/ProyectoHelados/tiendaHelados/src/java/cruds/CRUDCategorias.java</file>
+            <file>file:/D:/GOOGLE%20DRIVE/Universidad%20Cooperativa/8%20semestre/PATRONES/Proyecto%20helados/ProyectoHelados/tiendaHelados/src/java/servlets/ControladorHelados.java</file>
+            <file>file:/D:/GOOGLE%20DRIVE/Universidad%20Cooperativa/8%20semestre/PATRONES/Proyecto%20helados/ProyectoHelados/tiendaHelados/src/java/patronfacade/FacadeHelados.java</file>
+            <file>file:/D:/GOOGLE%20DRIVE/Universidad%20Cooperativa/8%20semestre/PATRONES/Proyecto%20helados/ProyectoHelados/tiendaHelados/src/java/patronbuilder/BuilderHeladoPaila.java</file>
+            <file>file:/D:/GOOGLE%20DRIVE/Universidad%20Cooperativa/8%20semestre/PATRONES/Proyecto%20helados/ProyectoHelados/tiendaHelados/src/java/patroniterator/IteratorListaCategorias.java</file>
+            <file>file:/D:/GOOGLE%20DRIVE/Universidad%20Cooperativa/8%20semestre/PATRONES/Proyecto%20helados/ProyectoHelados/tiendaHelados/web/helados.jsp</file>
+            <file>file:/D:/GOOGLE%20DRIVE/Universidad%20Cooperativa/8%20semestre/PATRONES/Proyecto%20helados/ProyectoHelados/tiendaHelados/src/java/patronbuilder/HeladoDirector.java</file>
+            <file>file:/D:/GOOGLE%20DRIVE/Universidad%20Cooperativa/8%20semestre/PATRONES/Proyecto%20helados/ProyectoHelados/tiendaHelados/src/java/patroniterator/CategoriasIterator.java</file>
+            <file>file:/D:/GOOGLE%20DRIVE/Universidad%20Cooperativa/8%20semestre/PATRONES/Proyecto%20helados/ProyectoHelados/tiendaHelados/src/java/patronbuilder/BuilderHeldadoSundae.java</file>
+            <file>file:/D:/GOOGLE%20DRIVE/Universidad%20Cooperativa/8%20semestre/PATRONES/Proyecto%20helados/ProyectoHelados/tiendaHelados/src/java/pojos/Category.java</file>
+            <file>file:/D:/GOOGLE%20DRIVE/Universidad%20Cooperativa/8%20semestre/PATRONES/Proyecto%20helados/ProyectoHelados/tiendaHelados/src/java/cruds/CRUDHelados.java</file>
+            <file>file:/D:/GOOGLE%20DRIVE/Universidad%20Cooperativa/8%20semestre/PATRONES/Proyecto%20helados/ProyectoHelados/tiendaHelados/src/java/patronbuilder/HeladoBuilder.java</file>
+            <file>file:/D:/GOOGLE%20DRIVE/Universidad%20Cooperativa/8%20semestre/PATRONES/Proyecto%20helados/ProyectoHelados/tiendaHelados/src/java/patronbuilder/BuilderHeladoCholao.java</file>
+            <file>file:/D:/GOOGLE%20DRIVE/Universidad%20Cooperativa/8%20semestre/PATRONES/Proyecto%20helados/ProyectoHelados/tiendaHelados/src/java/pojos/Helado.java</file>
+        </group>
+    </open-files>
+</project-private>
